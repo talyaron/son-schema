@@ -3,8 +3,6 @@ const socrates = {
         function: () => { return Man },
         corroboration: 1
     }
-
-
 }
 
 const Man = {
@@ -13,10 +11,9 @@ const Man = {
         corroboration: 1
     },
     gender: {
-        function: () => { return male },
+        function: () => { return Male },
         corroboration: 1
     }
-
 }
 
 const Human = {
