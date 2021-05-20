@@ -1,13 +1,13 @@
 const socrates = {
     type: {
-        function: () => { return man },
+        function: () => { return Man },
         corroboration: 1
     }
 
 
 }
 
-const man = {
+const Man = {
     type: {
         function: () => { return Human },
         corroboration: 1
